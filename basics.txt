@@ -1,0 +1,10 @@
+git init .
+ls .git
+du .git
+
+https://github.com/scaleracademy/git-demo-20220722/commit/a6f69e0a9ad6cb1ea150c67336b62c8fd38b4ce8
+
+https://github.com/scaleracademy/git-demo-20220722/tree/a6f69e0a9ad6cb1ea150c67336b62c8fd38b4ce8
+
+
+https://github.com/scaleracademy/git-demo-20220722/commits/a6f69e0a9ad6cb1ea150c67336b62c8fd38b4ce8
